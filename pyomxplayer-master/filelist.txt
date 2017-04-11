@@ -1,0 +1,13 @@
+http://www.chuck-a-rama.com/raspberry/promo.js
+http://www.chuck-a-rama.com/raspberry/index.html
+http://www.chuck-a-rama.com/raspberry/videos/Chuck_PizzaFries_30.mp4
+http://www.chuck-a-rama.com/raspberry/videos/Chuck_SingleDad_30.mp4
+http://www.chuck-a-rama.com/raspberry/videos/Chuck_Jello_30.mp4
+http://www.chuck-a-rama.com/raspberry/bin/sync_files.sh
+http://www.chuck-a-rama.com/raspberry/bin/cronfile-root
+http://www.chuck-a-rama.com/raspberry/bin/cronfile-pi
+http://www.chuck-a-rama.com/raspberry/bin/misc.sh
+http://www.chuck-a-rama.com/raspberry/bin/chromium-kill.sh
+http://www.chuck-a-rama.com/raspberry/bin/chromium-start.sh
+http://www.chuck-a-rama.com/raspberry/bin/update_dst.sh
+http://www.chuck-a-rama.com/raspberry/bin/write_id.sh
